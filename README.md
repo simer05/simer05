@@ -1,5 +1,37 @@
 ##  About Me:
-<br><br>I'm **Simerjit**, an M.Sc. AI student at **NTU Singapore** specializing in **Generative AI, Multi-Agent Systems, Neurosymbolic AI, NLP, and Computer Vision**.<br><br>Previously at **NielsenIQ** as Research Analyst & Team Lead, delivering FMCG analytics for Fortune 500 clients like Reckitt and Nestlé.<br><br>### 🔭 Current Work<br>- **Neurosymbolic AI for Business Intelligence** – Hybrid SenticNet + DL framework for McDonald's Singapore sentiment analysis<br>- **FIBO Multi-Agent GenAI System** – 5-agent pipeline: text → product designs + marketing assets<br>- **Hardware-Aware U-Net for Stable Diffusion** – Edge-optimized diffusion with 55% activation sparsity, 24% memory reduction<br>- **CodeLah!** – Bidirectional Code ↔ NL translation with LoRA-finetuned CodeGen-350M<br><br>###  Hackathon<br>- TE Connectivity x AWS Hackathon (FinFriend AI financial assistant)<br>- AMEX GenAI Hackathon (Dynamic Rewards Platform)<br><br>###  What Drives Me<br>Building **reliable, explainable, and scalable AI systems** that bridge research and real-world impact. Always open to collaborations and interesting problems to solve. 
+## About Me
+
+I’m Simerjit, an M.Sc. Artificial Intelligence student at Nanyang Technological University (NTU), Singapore, with a strong focus on Generative AI, LLMs, Multi-Agent Systems, Neurosymbolic AI, NLP, and Computer Vision.
+
+Previously, I worked at NielsenIQ as a Research Analyst & Team Lead, delivering FMCG insights for Reckitt, Nestlé, and other Fortune 500 clients across multiple markets. That experience shaped how I think about data, experimentation, and AI systems that solve real business problems.
+
+Turning data into decisions, AI into advantage and ideas into innovation.
+
+---
+
+## Projects
+
+**Neurosymbolic AI for Business Intelligence**  
+Hybrid framework using SenticNet + deep learning to analyse McDonald’s Singapore reviews and map them into actionable business themes.
+
+**FIBO Multi-Agent GenAI System**  
+A 5-agent pipeline that turns text prompts into product designs and marketing assets with JSON-native workflows and validation loops.
+
+**Hardware-Aware U-Net for Stable Diffusion**  
+Optimising Stable Diffusion v1.5 for edge deployment with activation sparsity, channel pruning, and improved FID.
+
+**CodeLah! (Code ↔ Natural Language Translation)**  
+LoRA-fine-tuned CodeGen-350M with AST parsing and semantic validation for robust NL↔code translation.
+
+---
+
+## Hackathons
+
+**AMEX Dynamic Rewards GenAI Platform – Top 6 Finalist**  
+Built a GenAI-powered rewards personalization system with a Safe Action Engine (Policy-as-Code) and RAG-based engagement analytics for American Express.
+
+**FinFriend – TE Connectivity x AWS Hackathon (2nd Place)**  
+Designed an AI-powered financial guidance assistant using AWS Bedrock, LangGraph multi-agent orchestration, Prophet, RandomForest, and FAISS-based RAG, supporting 13 Indian languages.
 
 
 ##  Socials:
