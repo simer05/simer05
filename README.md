@@ -1,4 +1,3 @@
-##  About Me:
 ## About Me
 
 I’m Simerjit, an M.Sc. Artificial Intelligence student at Nanyang Technological University (NTU), Singapore, with a strong focus on Generative AI, LLMs, Multi-Agent Systems, Neurosymbolic AI, NLP, and Computer Vision.
