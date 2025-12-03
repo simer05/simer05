@@ -26,10 +26,10 @@ LoRA-fine-tuned CodeGen-350M with AST parsing and semantic validation for robust
 
 ## Hackathons
 
-**AMEX Dynamic Rewards GenAI Platform – Top 6 Finalist**  
+**AMEX Dynamic Rewards GenAI Platform**  
 Built a GenAI-powered rewards personalization system with a Safe Action Engine (Policy-as-Code) and RAG-based engagement analytics for American Express.
 
-**FinFriend – TE Connectivity x AWS Hackathon (2nd Place)**  
+**FinFriend – TE Connectivity x AWS Hackathon**  
 Designed an AI-powered financial guidance assistant using AWS Bedrock, LangGraph multi-agent orchestration, Prophet, RandomForest, and FAISS-based RAG, supporting 13 Indian languages.
 
 
