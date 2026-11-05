@@ -1,4 +1,4 @@
-## Hi, I'm Simerjit
+## Hi, I'm Simerjit Kaur
 
 MSc Artificial Intelligence candidate at Nanyang Technological University (NTU), Singapore, graduating January 2027. I build LLM systems that run on real data and check their own outputs: evaluation frameworks, guardrailed assistants and multi-agent pipelines.
 
