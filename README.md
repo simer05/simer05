@@ -34,7 +34,7 @@ Tested 3 open-weight LLMs on 500 HotpotQA questions: reordering the same passage
 
 - **Sea x OpenAI Codex Hackathon, Regional Finalist** · [AdaptLink](https://github.com/simer05/Sea_x_OpenAI), AI seller intelligence for Shopee: seller dashboard and a 6-agent seller workflow.
 - **American Express GenAI Hackathon, Top 6 Finalist** · GenAI rewards personalisation with a Safe Action Engine (policy-as-code) and RAG-based engagement analytics.
-- **TE Connectivity x AWS Hackathon, 2nd Place** · FinFriend, an AI financial guidance assistant using AWS Bedrock, LangGraph multi-agent orchestration and FAISS-based RAG, supporting 13 Indian languages.
+- **TE Connectivity x AWS Hackathon, 2nd Place** · TE AI Data-Center Copilot (team of 4): built the competitor and company-performance analysis and the RAG copilot on AWS (Textract, Bedrock, Knowledge Base with cited answers), and delivered the final presentation and demo.
 
 ---
 
