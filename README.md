@@ -2,7 +2,7 @@
 
 MSc Artificial Intelligence candidate at Nanyang Technological University (NTU), Singapore, graduating January 2027. I build LLM systems that run on real data and check their own outputs: evaluation frameworks, guardrailed assistants and multi-agent pipelines.
 
-Before NTU I spent two years at NielsenIQ as a Research Analyst and Team Lead, delivering consumer research for global brands such as Reckitt and Nestlé.
+Before NTU I spent 2 years at NielsenIQ as a Research Analyst and Team Lead, delivering consumer research for global brands such as Reckitt and Nestlé.
 
 🌐 [simer05.github.io](https://simer05.github.io) · [LinkedIn](https://www.linkedin.com/in/simerjit-kaur-nath-5115b1211/) · [Google Scholar](https://scholar.google.com/citations?user=PgcPphgAAAAJ)
 
